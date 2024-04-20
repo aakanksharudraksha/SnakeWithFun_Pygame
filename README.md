@@ -7,3 +7,9 @@ Let's dive into the Snake game in this GitHub repo and aim to top the charts! Ti
 ## Controls
 
 Press the spacebar to kickstart the fun in this game! 🚀
+
+## Screenshots
+
+![Title screen]()
+
+![Play screen]()
