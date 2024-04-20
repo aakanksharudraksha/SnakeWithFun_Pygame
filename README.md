@@ -10,6 +10,6 @@ Press the spacebar to kickstart the fun in this game! 🚀
 
 ## Screenshots
 
-![Title screen]()
+![Title screen](https://github.com/aakanksharudraksha/SnakeWithFun_Pygame/blob/main/screenshot/Screenshot%20.png)
 
-![Play screen]()
+![Play screen](https://github.com/aakanksharudraksha/SnakeWithFun_Pygame/blob/main/screenshot/Capture.PNG)
